@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="501.33028"
-     inkscape:cy="214.88229"
+     inkscape:zoom="5.6"
+     inkscape:cx="517.94785"
+     inkscape:cy="312.45612"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -38,7 +38,10 @@
      fit-margin-top="5"
      fit-margin-left="5"
      fit-margin-bottom="5"
-     fit-margin-right="5" />
+     fit-margin-right="5"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true" />
   <metadata
      id="metadata2579">
     <rdf:RDF>
@@ -69,10 +72,6 @@
        style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-opacity:1"
        id="path2850-1" />
     <path
-       d="m 167.13931,189.94427 h -13.4 v 12.5 h 13.4 z"
-       style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-opacity:1"
-       id="path2852-5" />
-    <path
        d="m 33.539871,216.44039 a 2.05,2.05 0 1 0 -4.09999,0 2.05,2.05 0 1 0 4.09999,0 z"
        style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-opacity:1"
        id="path2854-5" />
@@ -96,5 +95,9 @@
        d="m 180.24007,143.38632 a 2.6000002,2.6000002 0 1 0 -5.19998,0 2.6000002,2.6000002 0 1 0 5.19998,0 z"
        style="fill:none;stroke:#0000ff;stroke-width:0.264583;stroke-opacity:1"
        id="path2532-3-5" />
+    <path
+       d="m 167.79677,189.58681 h -14.71492 v 13.21492 h 14.71492 z"
+       style="fill:none;stroke:#0000ff;stroke-width:0.285079;stroke-opacity:1"
+       id="path2852-5-5" />
   </g>
 </svg>
